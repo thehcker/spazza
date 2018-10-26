@@ -1,1 +1,1 @@
-web: gunicorn swahilibox.wsgi --log-file - 
+web: gunicorn swahilibox.wsgi --log-file -
